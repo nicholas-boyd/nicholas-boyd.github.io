@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/nicholas-boyd/nicholas-boyd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Nicholas Boyd, and I'm both a web and game developer. [This site](https://nicholas-boyd.github.io) is meant to showcase my projects, and the design process that goes into them.
 
 ### Markdown
 
