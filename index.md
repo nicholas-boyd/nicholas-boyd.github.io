@@ -2,6 +2,8 @@
 
 My name is Nicholas Boyd, and I'm both a web and game developer. [This site](https://nicholas-boyd.github.io) is meant to showcase my projects, and the design process that goes into them.
 
+For something cool to look at while I work on setting things up here, please check out [Project Monster](https://nicholas-boyd.github.io/Project-Monster-Build/): a card based RTS/RPG that uses base card powers and unit stats to determine damage and effects. There is no win condition yet, just have fun attacking stuff!
+
 <!--- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
