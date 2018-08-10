@@ -3,9 +3,11 @@
 My name is Nicholas Boyd, and I'm both a web and game developer. [This site](https://nicholas-boyd.github.io) is meant to showcase my projects, and the design process that goes into them.
 
 Here are some of my projects:
-- [Project Monster](https://nicholas-boyd.github.io/Project-Monster-Build/): a card based RTS/RPG that uses base card powers and unit stats to determine damage and effects. There is no win condition yet, just have fun attacking stuff!
-- [SJSU Pokemon Club Website](https://nicholas-boyd.github.io/SJSUPokemonClubWebsite/): the website I've developed for the Pokemon Club at SJSU. It's also viewable at its main URL [sjsupokemon.club](https://sjsupokemon.club/).
-- [RiskFaktor](https://nicholas-boyd.github.io/RiskFaktor/): originally created as a project for a neighbor whom wanted a website that mimicked the function and look of a slideshow.
+- [Project Monster](https://nicholas-boyd.github.io/Project-Monster-Build/): a card based RTS/RPG that uses base card powers and unit stats to determine damage and effects. There is no win condition yet, just have fun attacking stuff
+- [Web Hosted Facial Recognition](https://www.youtube.com/watch?v=x_2lEoLs9bM): while the site is not currently being hosted, this video shows a project in facial recognition I worked on with OpenFace and OpenCV
+- [SJSU Pokemon Club Website](https://nicholas-boyd.github.io/SJSUPokemonClubWebsite/): the website I've developed for the Pokemon Club at SJSU. It's also viewable at its main URL [sjsupokemon.club](https://sjsupokemon.club/)
+- [RiskFaktor](https://nicholas-boyd.github.io/RiskFaktor/): originally created as a project for a neighbor whom wanted a website that mimicked the function and look of a slideshow
+
 
 <!--- ### Markdown
 
